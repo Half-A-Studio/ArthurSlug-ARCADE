@@ -5,5 +5,5 @@ Pour tester le jeu : https://oxi-a.itch.io/arthurslug
 N'hésitez pas à nous donner votre avis dans les Issues ou sur la page itch.io du jeu
 
 Auteurs :
-* Oxi : Coding, project planer
+* Oxi : Coding, Gestion de projet
 * Kyomai : Art, Level Design, GameDesign
